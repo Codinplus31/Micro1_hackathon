@@ -230,7 +230,7 @@ A strong evaluation should report both gross and net results over a fixed period
 
 ## Walkthrough video
 
-Video walkthrough: **[Watch the complete demonstration here](PASTE_VIDEO_LINK_HERE)**
+Video walkthrough: **[Watch the complete demonstration here](https://drive.google.com/file/d/15lOz-90yKRoY9ZaMkaNmi1waDSQJWJqN/view?usp=drive_link)**
 
 It demonstrates the Rust engine running, localhost WebRequest permission, EA installation, chart attachment, Algo Trading activation, signal/connection logs, and how the trading process works from generating a signal to executing the trade in MT5.
 
